@@ -5,11 +5,12 @@
 %define	pdir	DBIx
 %define	pnam	Table
 Summary:	DBIx::Table - class used to represent DBI database tables
-Summary(pl):	DBIx::Table - klasa u¿ywana do reprezentowania tabel DBI
+Summary(pl):	DBIx::Table - klasa s³u¿±ca do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
 Version:	0.04
 Release:	3
-License:	GPL/Artistic
+# same aa perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	82757c208b63ef2e3b6dad59892c2c7c
