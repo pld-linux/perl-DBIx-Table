@@ -4,7 +4,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	DBIx
 %define	pnam	Table
-Summary:	DBIx::Table - Class used to represent DBI database tables
+Summary:	DBIx::Table - class used to represent DBI database tables
 Summary(pl):	DBIx::Table - klasa u¿ywana do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
 Version:	0.04
