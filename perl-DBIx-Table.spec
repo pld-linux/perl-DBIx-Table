@@ -9,7 +9,7 @@ Summary:	DBIx::Table - class used to represent DBI database tables
 Summary(pl):	DBIx::Table - klasa s³u¿±ca do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
 Version:	0.04
-Release:	3
+Release:	4
 # same aa perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
