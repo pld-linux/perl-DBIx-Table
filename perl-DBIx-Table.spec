@@ -3,8 +3,8 @@
 %bcond_without	tests	# Do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	DBIx
-%define	pnam	Table
+%define		pdir	DBIx
+%define		pnam	Table
 Summary:	DBIx::Table - class used to represent DBI database tables
 Summary(pl):	DBIx::Table - klasa s³u¿±ca do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
