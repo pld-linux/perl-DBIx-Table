@@ -6,7 +6,7 @@
 %define		pdir	DBIx
 %define		pnam	Table
 Summary:	DBIx::Table - class used to represent DBI database tables
-Summary(pl):	DBIx::Table - klasa s≥uø±ca do reprezentowania tabel DBI
+Summary(pl.UTF-8):   DBIx::Table - klasa s≈Çu≈ºƒÖca do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
 Version:	0.04
 Release:	4
@@ -29,13 +29,13 @@ flexible enough, though, that it can be used to abstract most any
 schema in a way that is comfortable to the perl coder who is not
 familiar with the underlying schema, or even SQL.
 
-%description -l pl
-DBIx::Table to klasa zaprojektowana tak, by s≥uøy≥a jako warstwa
-abstrakcji dla do∂Ê duøego podzbioru zapytaÒ SQL. Nazywa siÍ "Table",
-poniewaø jest zaprojektowana zasadniczo tak, øe pojedyncza podklasa
-udostÍpnia zorientowany obiektowo interfejs do pojedynczej tabeli bazy
-danych. Modu≥ jest jednak na tyle elastyczny, øe moøe byÊ uøywany do
-wyabstrahowania prawie kaødego schematu w sposÛb wygodny dla perlowego
+%description -l pl.UTF-8
+DBIx::Table to klasa zaprojektowana tak, by s≈Çu≈ºy≈Ça jako warstwa
+abstrakcji dla do≈õƒá du≈ºego podzbioru zapyta≈Ñ SQL. Nazywa siƒô "Table",
+poniewa≈º jest zaprojektowana zasadniczo tak, ≈ºe pojedyncza podklasa
+udostƒôpnia zorientowany obiektowo interfejs do pojedynczej tabeli bazy
+danych. Modu≈Ç jest jednak na tyle elastyczny, ≈ºe mo≈ºe byƒá u≈ºywany do
+wyabstrahowania prawie ka≈ºdego schematu w spos√≥b wygodny dla perlowego
 kodera niezbyt zaznajomionego z podstawowymi schematami czy nawet
 SQL-em.
 
