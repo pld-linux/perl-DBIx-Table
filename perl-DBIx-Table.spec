@@ -6,7 +6,7 @@
 %define		pdir	DBIx
 %define		pnam	Table
 Summary:	DBIx::Table - class used to represent DBI database tables
-Summary(pl.UTF-8):   DBIx::Table - klasa służąca do reprezentowania tabel DBI
+Summary(pl.UTF-8):	DBIx::Table - klasa służąca do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
 Version:	0.04
 Release:	4
