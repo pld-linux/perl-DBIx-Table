@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests	# Do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	DBIx
 %define		pnam	Table
+%include	/usr/lib/rpm/macros.perl
 Summary:	DBIx::Table - class used to represent DBI database tables
 Summary(pl.UTF-8):	DBIx::Table - klasa służąca do reprezentowania tabel DBI
 Name:		perl-DBIx-Table
@@ -15,6 +15,7 @@ License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	82757c208b63ef2e3b6dad59892c2c7c
+URL:		http://search.cpan.org/dist/DBIx-Table/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
